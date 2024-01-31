@@ -14,7 +14,8 @@
 
 # <p align="center"> My Orginization
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=1000&pause=800&color=B400F7&center=true&random=false&width=500&height=80&lines=Sinner+Services" alt="Typing SVG" /></a>
+<a href="https://github.com/ciner-services">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=1000&pause=800&color=B400F7&center=true&random=false&width=500&height=80&lines=Sinner+Services" alt="Typing SVG" /></a>
 
 **We Are Working On Cheating Services, And Websites.**
 One Cheat is Called `Sin Ready`
