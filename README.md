@@ -44,3 +44,5 @@ One Cheat is Called `Sin Ready`
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=2000&pause=800&color=F70000&center=true&random=false&width=500&height=80&lines=Terrorist.BIO" alt="Typing SVG" /></a>
 
 </center>
+
+## <p align="center"> Also! If you can't tell im a femboy
