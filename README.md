@@ -36,14 +36,20 @@ One Cheat is Called `Sin Ready`
 
 <p align="center">
 <a href="rupic@niggasin.me">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=2000&pause=800&color=D725F7&center=true&random=false&width=500&height=80&lines=Rupic%40niggasin.me" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=2000&pause=800&color=D725F7&center=true&random=false&width=500&height=80&lines=owner%40ruplicx.lol" alt="Typing SVG" /></a>
 
 
 <p align="center">
-<a href="https://Terrorist.bio/rupic">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=2000&pause=800&color=F70000&center=true&random=false&width=500&height=80&lines=Terrorist.BIO" alt="Typing SVG" /></a>
+<a href="https://shock.lol/rup">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=2000&pause=800&color=F70000&center=true&random=false&width=500&height=80&lines=shock.lol" alt="Typing SVG" /></a>
 
 </center>
 
-## <p align="center"> Also! If you can't tell im a femboy
-## <p align="center"> Also Kinda Depressed...
+<p align="center"> i love static html coding and love coding in javascript
+
+### <p align="center"> Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rupicc&limit=69&theme=dark&combine_all_yearly_contributions=true)
+<br>
+![Discord Profile](https://discord.c99.nl/widget/theme-2/1187442423438250078.png)
+<br>
+
